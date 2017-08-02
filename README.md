@@ -1,2 +1,2 @@
 # farkle
-A bit of Python, Bluemix and Hyperledger
+A bit of Hyperledger, Bluemix and Python
